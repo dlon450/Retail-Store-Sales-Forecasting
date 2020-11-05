@@ -5,7 +5,7 @@ There are a multitude of factors that impact the sales of retail stores, includi
 The data used was retrieved from https://www.kaggle.com/manjeetsingh/retaildataset. 'Features data set.csv' contains data relating to the store, department and regional activity for different dates, 'sales data-set.csv' contains the sales data for different stores and departments from 2010-02-05 to 2012-11-01 and 'stores data-set.csv' contains data about each store type and size.
 
 ## Getting Started
-Open retail_workflow.yxmd using ALteryx Designer and set the datasets to their corresponding locations. Run the workflow to obtain merge datasets and obtain various figures for exploratory analysis and forecasting.
+Open retail_workflow.yxmd using Alteryx Designer and set the datasets to their corresponding locations. Run the workflow to obtain merge datasets and obtain various figures for exploratory analysis and forecasting.
 
 ## Details on Implementation
 Note that any figures can be found within the 'Figures' directory.
